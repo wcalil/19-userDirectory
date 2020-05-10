@@ -1,0 +1,27 @@
+[
+    {
+      "name": "bob",
+      "job": "developer",
+      "pay": 100
+    },
+    {
+      "name": "john",
+      "job": "designer",
+      "pay": 120
+    },
+    {
+      "name": "willian",
+      "job": "engineer",
+      "pay": 90
+    },
+    {
+      "name": "barry",
+      "job": "doctor",
+      "pay": 200
+    },
+    {
+      "name": "bill",
+      "job": "professor",
+      "pay": 250
+    }
+  ]
